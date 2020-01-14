@@ -1,0 +1,22 @@
+{
+  "description": "Borderless white",
+  "homepage_url": "https://github.com/andreicristianpetcu/borderless_white",
+  "manifest_version": 2,
+  "name": "Borderless white",
+  "theme": {
+    "colors": {
+      "frame": "#FFFFFF",
+      "tab_background_text": "#111",
+      "toolbar_bottom_separator": "#FFFFFF",
+      "ntp_background": "#FFFFFF",
+      "tab_background_separator": "#FFFFFF",
+      "tab_selected": "#FFFFFF"
+    }
+  },
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "55.0a2"
+    }
+  }
+}
