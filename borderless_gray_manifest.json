@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.1",
+  "version": "1.2",
   "name": "Borderless gray",
   "author": "Andrei Cristian Petcu",
   "theme": {
@@ -37,7 +37,7 @@
       "toolbar_field_border_focus": "#2a2a2e",
       "toolbar_field_focus": "#38383d",
       "toolbar_field_highlight": "#2a2a2e",
-      "toolbar_field_highlight_text": "#2a2a2e",
+      "toolbar_field_highlight_text": "white",
       "toolbar_field_separator": "#2a2a2e",
       "toolbar_field_text": "white",
       "toolbar_field_text_focus": "white",
