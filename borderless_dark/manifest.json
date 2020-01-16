@@ -9,7 +9,7 @@
       "button_background_active": "#38383d",
       "button_background_hover": "#444444",
       "frame_inactive": "#2a2a2e",
-      "frame": "#38383d",
+      "frame": "#2a2a2e",
       "icons_attention": "#ffd244",
       "icons": "#e6e6e6",
       "ntp_background": "#2a2a2e",
@@ -40,7 +40,7 @@
       "toolbar_field_text_focus": "white",
       "toolbar_field_text": "white",
       "toolbar_field": "#38383d",
-      "toolbar_top_separator": "#2a2a2e",
+      "toolbar_top_separator": "#38383d",
       "toolbar_vertical_separator": "#2a2a2e",
       "toolbar": "#2a2a2e"
     }
