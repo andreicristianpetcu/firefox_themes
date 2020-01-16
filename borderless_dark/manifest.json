@@ -3,7 +3,7 @@
   "version": "1.3",
   "name": "Borderless dark",
   "author": "Andrei Cristian Petcu",
-  "description": "Unified simple dark theme.",
+  "description": "Unified simple dark theme that removes borders",
   "homepage_url": "https://github.com/andreicristianpetcu/firefox_themes",
   "theme": {
     "colors": {
