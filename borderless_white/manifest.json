@@ -7,11 +7,11 @@
   "theme": {
     "colors": {
       "frame": "#FFFFFF",
-      "tab_background_text": "#111",
-      "toolbar_bottom_separator": "#FFFFFF",
       "ntp_background": "#FFFFFF",
       "tab_background_separator": "#FFFFFF",
-      "tab_selected": "#FFFFFF"
+      "tab_background_text": "#111",
+      "tab_selected": "#FFFFFF",
+      "toolbar_bottom_separator": "#FFFFFF"
     }
   },
   "applications": {
