@@ -4,7 +4,13 @@
   "homepage_url": "https://github.com/andreicristianpetcu/firefox_themes",
   "author": "Andrei Cristian Petcu",
   "manifest_version": 2,
-  "version": "1.2",
+  "version": "1.3",
+  "icons": {
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "96": "icon-96.png",
+    "128": "icon-128.png"
+  },
   "theme": {
     "colors": {
       "frame": "#FFFFFF",
@@ -12,7 +18,14 @@
       "tab_background_separator": "#FFFFFF",
       "tab_background_text": "#111",
       "tab_selected": "#FFFFFF",
-      "toolbar_bottom_separator": "#FFFFFF"
+      "toolbar_bottom_separator": "#FFFFFF",
+      "toolbar_field_border_focus": "rgba(12, 12, 13, 0.25)",
+      "popup": "white",
+      "popup_border": "white",
+      "popup_highlight_text": "rgb(17, 17, 17)",
+      "popup_highlight": "rgba(12, 12, 13, 0.15)",
+      "popup_text": "rgb(17, 17, 17)",
+      "toolbar_field_separator": "white"
     }
   },
   "applications": {
