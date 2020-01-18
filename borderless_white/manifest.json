@@ -27,10 +27,5 @@
       "popup_text": "rgb(17, 17, 17)",
       "toolbar_field_separator": "white"
     }
-  },
-  "applications": {
-    "gecko": {
-      "strict_min_version": "55.0a2"
-    }
   }
 }
