@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.7",
+  "version": "1.8",
   "name": "Borderless dark",
   "author": "Andrei Cristian Petcu",
   "description": "Unified simple dark theme that removes borders",
@@ -24,7 +24,7 @@
       "ntp_text": "rgba(255, 255, 255, 0.6)",
       "popup_border": "#2a2a2e",
       "popup_highlight_text": "rgba(255, 255, 255, 0.6)",
-      "popup_highlight": "#2a2a2e",
+      "popup_highlight": "#38383d",
       "popup_text": "rgba(255, 255, 255, 0.6)",
       "popup": "#2a2a2e",
       "sidebar_border": "#2a2a2e",
