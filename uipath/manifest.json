@@ -7,23 +7,41 @@
     "version": "1.0",
     "theme": {
         "colors": {
-            "frame": "#1976d2",
-            "tab_background_separator": "white",
+            // "frame": "#1976d2",
+            // "tab_background_separator": "white",
+            // "tab_selected": "#1976d2",
+            // "toolbar_bottom_separator": "#1976d2",
+            "toolbar": "#1976d2",      
+            "frame": "blue",
+            "tab_background_separator": "blue",
             "tab_background_text": "white",
-            "tab_selected": "#1976d2",
+            "tab_selected": "blue",
             "tab_line": "white",
             "tab_loading": "white",
             "tab_text": "rgba(255, 255, 255, 0.6)",
-            "toolbar": "#1976d2",      
+            "toolbar": "blue",      
             "ntp_background": "#f4f6f9",
+            "toolbar_bottom_separator": "blue",
             "toolbar_field_border_focus": "rgba(12, 12, 13, 0.25)",
-            "toolbar_bottom_separator": "#1976d2",
-            "popup": "white",
+            "toolbar_field_separator": "white",
+
+            "2toolbar_field_border_focus": "#2a2a2e",
+            "2toolbar_field_border": "#2a2a2e",
+            "2toolbar_field_focus": "#38383d",
+            "2toolbar_field_highlight_text": "#00b3f4",
+            "2toolbar_field_highlight": "#38383d",
+            "2toolbar_field_separator": "#38383d",
+            "2toolbar_field_text_focus": "white",
+            "2toolbar_field_text": "white",
+            "2toolbar_field": "#38383d",
+      
+            // "popup": "#f0f5f8",
+            "popup": "blue",
             "popup_border": "white",
             "popup_highlight_text": "rgb(17, 17, 17)",
-            "popup_highlight": "rgba(12, 12, 13, 0.15)",
-            "popup_text": "rgb(17, 17, 17)",
-            "toolbar_field_separator": "white"
+            "popup_highlight": "#e7ebee",
+            "popup_text": "rgb(17, 17, 17)"
+
         }
     }
 }
