@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "name": "Oled Borderless Pitch Black",
   "author": "Andrei Cristian Petcu",
   "description": "Black all around without any borders. Good for battery life for OLED screens since black does not use energy.",
