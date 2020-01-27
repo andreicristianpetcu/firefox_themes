@@ -34,7 +34,7 @@
       "sidebar": "#2a2a2e",
       "tab_background_separator": "#2a2a2e",
       "tab_background_text": "#a9a9ab",
-      "tab_line": "rgba(0,179,244, 1)",
+      "tab_line": "rgba(255, 255, 255, 1)",
       "tab_loading": "rgba(255, 255, 255, 0.6)",
       "tab_selected": "#2a2a2e",
       "tab_text": "rgba(255, 255, 255, 0.6)",
@@ -48,7 +48,7 @@
       "toolbar_field_text_focus": "rgba(255, 255, 255, 0.6)",
       "toolbar_field_text": "rgba(255, 255, 255, 0.6)",
       "toolbar_field": "#2a2a2e",
-      "toolbar_top_separator": "rgba(0,179,244, 0.2)",
+      "toolbar_top_separator": "rgba(255, 255, 255, 0.2)",
       "toolbar_vertical_separator": "#2a2a2e",
       "toolbar": "#2a2a2e"
     }
