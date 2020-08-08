@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "name": "Dark Fenix",
   "author": "Andrei Cristian Petcu",
-  "description": "This is a dark theme inspired by the new Firefox for Android release (Fenix)",
+  "description": "This is a dark theme inspired by the new Firefox for Android release (Fenix). Edit theme here color.firefox.com/?theme=XQAAAAKkBAAAAAAAAABBqYhm849SCicxcUhA3DJozHnOMuotJJGTSDJb-FUjf7Mw2VAVHezV_xv79JishuaMAlQs41MN24hV_0CG0VmlorOZhd96gWR3F52l7wx3zlkkdyKtrV34f6wGULgSWdHC8dq_XnKJhCixY6f5K77vDAt15lzXfOCG_KZgcdaGoCN7cEoS_IuVJQU6T09gz-xPq9pW-R80KZ3azEAoqfHKFfYpPFlV-8vYnI55BnIW_wWzfa7qk2w0wviSVDImmpjongvVsQSSAnEePFWkQrSIphADwHI3qT48BQNuy4otWyOhePb-rlVJ4Cj8HMj7oe_N-vCHyic_HIu_e6Ows-I4LAdcz8q3SrDqB00BL70mRigaSfKDFnPIEWdS7EUzoZnth8J1zguwbSNqI1nwc41zfBv9M_JYnY0t3U3dnQGgmrpktjsXAlf8J3JQleD88dFQB8vrWE95MHJW7buft0Hs7dHkiETeGr2WmhqFS5nWu6qlO_Sbknk5Wcqo5M1L2B22Sn5T03WppNugHKDMxpkA42uYxGFDLcFGz10phYOdKQ4FVff8G1oagR0GP5REnHr_yj4aoA",
   "homepage_url": "https://github.com/andreicristianpetcu/firefox_themes",
   "icons": {
     "16": "icon-16.png",
